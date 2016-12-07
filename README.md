@@ -1,6 +1,6 @@
 # CS510 CW 14
 
-**Author:** _\<your name\>_
+**Author:** _Eric and Lance_
 
 **Due date:** 2016/12/6
 
@@ -21,4 +21,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+Eric and Lance
