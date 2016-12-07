@@ -10,7 +10,10 @@ Complete the following exercise in a Jupyter notebook ```GHCND.ipynb```. Using t
 
 ## Assessment
 
-_\<Analyze what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.\>_
+1. Getting practice back on Python.
+2. Getting more experience with dataframes and database handling.
+3. Learning about the map function to assist with binary indexing of the dataframe rows.
+4. Dot chaining of methods (used in our graphs)
 
 ## Honor Pledge
 
